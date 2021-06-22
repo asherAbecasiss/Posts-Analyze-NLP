@@ -1,2 +1,2 @@
-# Posts-Analyze-and-Predict
+# Posts-Analyze-NLP
 This project tries to answer the question, ״what makes a post popular״ , the main Language is python , I use nltk ,selenium and spacy .  
